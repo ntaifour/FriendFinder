@@ -6,8 +6,8 @@
 // ===============================================================================
 var friends = [
   {
-      "name":"Owen",
-      "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+      "name":"Eden",
+      "photo":"https://cdn.vox-cdn.com/thumbor/FHDHQpoznxBDB1P0amyQLsiOANk=/0x0:4674x3090/1820x1213/filters:focal(2151x1003:2897x1749):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/58984499/930123356.jpg.0.jpg",
       "scores":[
          5,
          1,
@@ -22,8 +22,8 @@ var friends = [
           ]
       },
   {
-  "name":"Pavan",
-  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+  "name":"Didier",
+  "photo":"https://www.talkchelsea.net/wp-content/uploads/2017/09/didier-drogba.jpg",
   "scores":[
      5,
      1,
@@ -38,8 +38,8 @@ var friends = [
       ]
 },
 {
-  "name":"Angel",
-  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+  "name":"John",
+  "photo":"https://premierleague-static-files.s3.amazonaws.com/premierleague/photos/players/250x250/p1718.png",
   "scores":[
      9,
      1,
@@ -54,8 +54,8 @@ var friends = [
       ]
 },
 {
-  "name":"Karina",
-  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+  "name":"Dave",
+  "photo":"https://premierleague-static-files.s3.amazonaws.com/premierleague/photos/players/250x250/p41328.png",
   "scores":[
      5,
      1,
@@ -70,8 +70,8 @@ var friends = [
       ]
 },
 {
-  "name":"Miriam",
-  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+  "name":"Frank",
+  "photo":"https://premierleague-static-files.s3.amazonaws.com/premierleague/photos/players/250x250/p2051.png",
   "scores":[
      5,
      1,
@@ -86,8 +86,8 @@ var friends = [
       ]
 },
 {
-  "name":"Lisa",
-  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+  "name":"GZ",
+  "photo":"https://premierleague-static-files.s3.amazonaws.com/premierleague/photos/players/250x250/p1715.png",
   "scores":[
      5,
      1,
@@ -102,8 +102,8 @@ var friends = [
       ]
 },
 {
-  "name":"Nicole",
-  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+  "name":"Diego",
+  "photo":"https://premierleague-static-files.s3.amazonaws.com/premierleague/photos/players/250x250/p18507.png",
   "scores":[
      5,
      1,
@@ -118,8 +118,8 @@ var friends = [
       ]
 },
 {
-  "name":"Jason",
-  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+  "name":"Sarri",
+  "photo":"https://premierleague-static-files.s3.amazonaws.com/premierleague/photos/players/250x250/man37673.png",
   "scores":[
      5,
      1,
@@ -134,8 +134,8 @@ var friends = [
       ]
 },
 {
-  "name":"Nate",
-  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+  "name":"N'Golo",
+  "photo":"hthttps://premierleague-static-files.s3.amazonaws.com/premierleague/photos/players/250x250/p116594.png",
   "scores":[
      5,
      1,
@@ -150,8 +150,8 @@ var friends = [
       ]
 },
 {
-  "name":"Ken",
-  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+  "name":"Willy",
+  "photo":"https://premierleague-static-files.s3.amazonaws.com/premierleague/photos/players/250x250/p47431.png",
   "scores":[
      5,
      1,
